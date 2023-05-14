@@ -1,0 +1,2 @@
+Un archivo TXT es un archivo de texto sin formato que no requiere de ningún programa especial para su creación y apertura. 
+Para abrir un archivo TXT, la mayoría de los sistemas operativos ofrecen programas de procesamiento de textos como “Editor” en Windows o “TextEdit” en macOS.
