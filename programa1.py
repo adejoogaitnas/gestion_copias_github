@@ -8,3 +8,7 @@ def suma(a, b):
 
 def resta(a, b):
     return f'El resultado de la resta es {a - b}'
+
+def multiplicacion(a, b):
+    return f'El resultado de la multiplicación es {a * b}'
+
